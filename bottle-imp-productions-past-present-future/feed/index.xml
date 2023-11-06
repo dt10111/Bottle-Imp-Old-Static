@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Bottle Imp Productions: Past, Present, Future.	</title>
+	<atom:link href="/news/bottle-imp-productions-past-present-future/feed" rel="self" type="application/rss+xml" />
+	<link>/news/bottle-imp-productions-past-present-future</link>
+	<description>Independent Record Label - Ambient / Post-industrial / Neoclassical</description>
+	<lastBuildDate>Sat, 26 May 2012 16:14:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Catching The Waves		</title>
+		<link>/news/bottle-imp-productions-past-present-future#comment-1581</link>
+
+		<dc:creator><![CDATA[Catching The Waves]]></dc:creator>
+		<pubDate>Sat, 26 May 2012 16:14:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=952#comment-1581</guid>
+
+					<description><![CDATA[Good luck with your plans and viva musica. :) ]]></description>
+			<content:encoded><![CDATA[<p>Good luck with your plans and viva musica. 🙂 </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
