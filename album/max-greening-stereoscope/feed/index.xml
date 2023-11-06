@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Max Greening, &#8220;Stereoscope&#8221;	</title>
+	<atom:link href="/album/max-greening-stereoscope/feed" rel="self" type="application/rss+xml" />
+	<link>/album/max-greening-stereoscope</link>
+	<description>Independent Record Label - Ambient / Post-industrial / Neoclassical</description>
+	<lastBuildDate>Tue, 16 Aug 2016 18:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Year-End Bests, Part 3: Thomas Mathie and Matthew Sweeney&#8217;s picks &#124; Make Your Own Taste		</title>
+		<link>/album/max-greening-stereoscope#comment-1635</link>
+
+		<dc:creator><![CDATA[Year-End Bests, Part 3: Thomas Mathie and Matthew Sweeney&#8217;s picks &#124; Make Your Own Taste]]></dc:creator>
+		<pubDate>Fri, 19 Dec 2014 15:04:36 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=album#038;p=1981320#comment-1635</guid>
+
+					<description><![CDATA[[&#8230;] Stereoscope &#8211; Max Greening [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Stereoscope &#8211; Max Greening [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

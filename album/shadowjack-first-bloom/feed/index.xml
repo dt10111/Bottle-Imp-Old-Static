@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Shadowjack, &#8220;First Bloom: A Chronicle of Humanity’s Future in Space&#8221;	</title>
+	<atom:link href="/album/shadowjack-first-bloom/feed" rel="self" type="application/rss+xml" />
+	<link>/album/shadowjack-first-bloom</link>
+	<description>Independent Record Label - Ambient / Post-industrial / Neoclassical</description>
+	<lastBuildDate>Wed, 17 Aug 2016 19:37:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Welcome Row Boat, new album Sept. 10th - Bottle Imp Productions		</title>
+		<link>/album/shadowjack-first-bloom#comment-1622</link>
+
+		<dc:creator><![CDATA[Welcome Row Boat, new album Sept. 10th - Bottle Imp Productions]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2014 01:38:49 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=album#038;p=1278462#comment-1622</guid>
+
+					<description><![CDATA[[&#8230;] month Bottle Imp Productions has two new artists. You&#8217;ve heard Shadowjack&#8217;s new album already (and if you haven&#8217;t, you should!, and on September 10th we will release Row Boat&#8217;s new [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] month Bottle Imp Productions has two new artists. You&#8217;ve heard Shadowjack&#8217;s new album already (and if you haven&#8217;t, you should!, and on September 10th we will release Row Boat&#8217;s new [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
