@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Movie Reviews - Bottle Imp Productions</title>
+	<atom:link href="/category/movie-reviews/feed" rel="self" type="application/rss+xml" />
+	<link>/category/movie-reviews</link>
+	<description>Independent Record Label - Ambient / Post-industrial / Neoclassical</description>
+	<lastBuildDate>Wed, 16 Jul 2014 15:45:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2014/08/bottleimp-144-120x120.png</url>
+	<title>Movie Reviews - Bottle Imp Productions</title>
+	<link>/category/movie-reviews</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>20,000 Days on Earth: A look at Nick Cave&#8217;s Creative Process</title>
+		<link>/reviews-2/20000-days-earth-look-nick-cave</link>
+					<comments>/reviews-2/20000-days-earth-look-nick-cave#respond</comments>
+		
+		<dc:creator><![CDATA[Daniel Tuttle]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 15:26:06 +0000</pubDate>
+				<category><![CDATA[Movie Reviews]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[Iain Forsyth]]></category>
+		<category><![CDATA[nick cave]]></category>
+		<category><![CDATA[the bad seeds]]></category>
+		<guid isPermaLink="false">/?p=1966636</guid>
+
+					<description><![CDATA[<p>I had an interesting opportunity to attend the L.A. premier of the new film &#8220;20,000 Days on Earth&#8221;, a sort of stylish documentary film about Bad Seeds front man, Nick Cave. We were shown the film, then Nick Cave came&#8230;</p>
+<p>The post <a href="/reviews-2/20000-days-earth-look-nick-cave" data-wpel-link="internal">20,000 Days on Earth: A look at Nick Cave&#8217;s Creative Process</a> appeared first on <a href="/" data-wpel-link="internal">Bottle Imp Productions</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I had an interesting opportunity to attend the L.A. premier of the new film &#8220;20,000 Days on Earth&#8221;, a sort of stylish documentary film about Bad Seeds front man, Nick Cave. We were shown the film, then Nick Cave came out and did a Q&#038;A mixed with a solo performance, that yielded some interesting insight into the film itself. The primary take away from the Q&#038;A is that this film isn&#8217;t precisely a documentary, and if it were a typical &#8220;rock &#8216;n roll&#8221; documentary, Cave would not have agreed to do it. </p>
+<p>Instead, the film is an intimate view into Nick Cave&#8217;s creative persona and creative process, done in a way as to not de-mystify the Nick Cave persona. There are a few interesting scenes where it shows Cave driving with old collaborators in the car with him, and they&#8217;re candidly discussing various topics. Notably, he was visited by Kylie Minogue and his former Bad Seeds guitarist, Blixa Bargeld from Einstürzende Neubauten. This film also has one of the best title sequences ever, showing a montage of Cave&#8217;s life alongside the number of days passing in his life from 1 to 20,000. </p>
+<p>The film apparently was built around a studio recording the director did of The Bad Seeds recording &#8220;Higgs Boson Blues&#8221; from the latest album &#8220;Push the Sky Away&#8221;. It was very well filmed and showed incredible insight into how Nick Cave and The Bad Seeds work as a band and put together their songs. Hearing this cut before it went through the mixing / mastering process, and watching Cave sort of play conductor to his orchestra is quite compelling, and honestly I could probably watch an entire film of them recording the entire album. The film also shows a lot of footage of the band jamming and feeling out new songs, showing Warren Ellis fiddling with electronic gear and effects, and Nick Cave working to get his lyrics a musical canvas. </p>
+<p>&#8220;20,000 Days on Earth&#8221; is absolutely worth watching if you&#8217;re interested in getting a glimpse into the creative process of Nick Cave and the Bad Seeds. It certainly does not go too deep into Nick Cave&#8217;s personal life, as it seems he is very protective of his creative brand and persona, but that works as an asset to this film which is focused on the creative process. Nothing is demystified, but we are treated with an interesting narrative.</p>
+<p><iframe width="853" height="480" src="//www.youtube.com/embed/VM-p8VPpWOQ" frameborder="0" allowfullscreen></iframe></p>
+<p>The post <a href="/reviews-2/20000-days-earth-look-nick-cave" data-wpel-link="internal">20,000 Days on Earth: A look at Nick Cave&#8217;s Creative Process</a> appeared first on <a href="/" data-wpel-link="internal">Bottle Imp Productions</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/reviews-2/20000-days-earth-look-nick-cave/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
